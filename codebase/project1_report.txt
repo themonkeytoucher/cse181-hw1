@@ -1,0 +1,23 @@
+1. Basic information
+Team Number:
+CruzID of Submitter: 
+Student Name of Submitter: 
+Names of the other Team Members:
+
+
+2. Internal Record Format
+- Describe your record format design, and describe how your design provide O(1) field access. If your design does not provide O(1) field access, just mention that you haven't implemented this feature.
+- Describe how you store a VarChar field.
+
+
+3. Page Format
+- Describe your page format design
+
+
+4. Implementation Detail
+- Other pertinent implementation detail goes here.
+
+
+5. Other (optional)
+- Freely use this section to tell us about other things about your Project1 solution that may help us understand and grade your solution.
+
